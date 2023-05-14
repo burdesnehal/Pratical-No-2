@@ -1,68 +1,60 @@
-# Pratical-No-2
-<html>
-<body>
-
-<center>
-<br><br><br><br><br><br><br><br>
-<h2> <u>COMPUTER WORKSHOP LAB <br> PRACTICAL NO. 2 </u></h2>
-
-
-<table border="2" space="2" cellspacing="3" cellpadding="2">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>time table
+    </title> 
+ </head>
+   <body>
+    <table border = "1" cellpadding = "6" >
+        <tr>
+       <th rowspan="2">day</th>
+         <th rowspan="2">sec</th>
+           <th>1</th>
+             <th>2</th>
+               <th>3</th>
+                  <th rowspan="6" style="background-color:POWDERBLUE">recess</td>
+                    <th>4</th>
+                     <th>5</th>
+                     <th rowspan="6" style="background-color:POWDERBLUE">recess</td>
+                    <th>6</th>
+                <th>7</th>
+              </tr>
+            <tr>
+         <td>10.00-11.00pm</td>
+        <td>11.00-12.00pm</td>
+          <td>12.00-1.00pm</td>
+             <td>1.40-2.40pm</td>
+                <td>2.40-3.40pm</td>
+                   <td>4.00-5.00pm</td>
+                      <td>5.00-6.00 pm</td>
+                       </tr>
+                       <tr>
+                       <td>2/5/2023</td>
+                     <td  rowspan="3">D</td> 
+                   <td colspan="2">EGD(NG)</td>
+                <td>EC(SK)</td>
+            <td colspan="2">PRACTICL <br>WDL(MB/AB/AS)</td>
+        <td colspan="2">PRACTICL <br>ECL(D2-NZ)(FOO7)/CEL(D1-AG)(F204)</td>
+    </tr>
 <tr>
-<th colspan="5" align="center"> TIMETABLE </th>
-</tr>
-
+    <td>3/5/2023</td> 
+        <td>EM</td>
+            <td colspan="2">EGDL(NG)</td>
+        <td colspan="2">PRACTICL <br>CWL(SM/MG/AN)</td>
+    <td colspan="2">PRACTICL <br>WDL(MB/AB/AS)</td>
+</tr>    
 <tr>
-<th align="center"> DAY/TIME </th>
-<th align="center"> 6:30-7:30am </th>
-<th align="center"> 7:30-8:30am </th>
-<th align="center"> 10:00-11:00pm </th>
-<th align="center"> 11:00-12:00pm </th>
-</tr>
-
-<tr>
-<th align="center"> MONDAY </th>
-<td colspan="2" align="center"> Chemistry </td>
-<td align="center"> Maths </td>
-<td align="center"> Activity </td>
-</tr>
-
-<tr>
-<th align="center"> TUESDAY </th>
-<td colspan="2" align="center"> Revision </td>
-<td align="center"> Maths </td>
-<td align="center"> EGD </td>
-</tr>
-
-<tr>
-<th align="center"> WEDNESDAY </th>
-<td align="center"> EGD </td>
-<td align="center"> CWL </td>
-<td align="center"> EGD </td>
-<td align="center"> Activity </td>
-</tr>
-
-<tr>
-<th align="center"> THURSDAY </th>
-<td align="center"> Chemistry </td>
-<td align="center"> Revision </td>
-<td colspan="2" align="center"> Lab Work </td>
-</tr>
-
-<tr>
-<th align="center"> FRIDAY </th>
-<td align="center"> Revision </td>
-<td colspan="2" align="center"> EGD </td>
-<td align="center"> Maths </td>
-</tr>
-
-<tr>
-<th align="center"> SATURDAY </th>
-<td colspan="2" align="center"> Revision </td>
-<td align="center"> Maths </td> 
-<td align="center"> English </td>
-</tr>
-
-</center>
+  <td>4/5/2023</td> 
+    <td>EC(SK)</td>
+        <td colspan="2">PRACTICL<BR>ECL(D2-NZ)(FOO7)/CEL(D1-AG)(F204)</td>
+        <td colspan="2">EGDL(NG)</td>
+    <td>LIBRARY</td>
+  <td>MOOC*</td>
+</tr>       
+    </table>
+    
 </body>
 </html>
