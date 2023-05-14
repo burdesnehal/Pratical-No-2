@@ -1,7 +1,7 @@
 # Pratical-No-2
 <html>
 <body>
-<body background="C:\Users\Divya Pathrabe\Pictures\Background 14.jpg"> ratio="fit" />
+
 <center>
 <br><br><br><br><br><br><br><br>
 <h2> <u>COMPUTER WORKSHOP LAB <br> PRACTICAL NO. 2 </u></h2>
